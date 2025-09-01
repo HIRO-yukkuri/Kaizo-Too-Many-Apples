@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "food",
+    "pattern": [
+        "iii",
+        "iAi",
+        "iii"
+    ],
+    "key": {
+        "i": {
+            "item": "minecraft:amethyst_shard"
+        },
+        "A": {
+            "item": "minecraft:apple"
+        }
+    },
+    "result": {
+        "item": "too_many_apples:amethyst_apple",
+        "count": 1
+    }
+}

@@ -1,0 +1,20 @@
+{
+  "item.too_many_apples.copper_apple": "Copper Apple",
+  "item.too_many_apples.iron_apple": "Iron Apple",
+  "item.too_many_apples.amethyst_apple": "Amethyst Apple",
+  "item.too_many_apples.prismarine_apple": "Prismarine Apple",
+  "item.too_many_apples.redstone_apple": "Redstone Apple",
+  "item.too_many_apples.diamond_apple": "Diamond Apple",
+  "item.too_many_apples.netherite_apple": "Netherite Apple",
+  "item.too_many_apples.enchanted_copper_apple": "Enchanted Copper Apple",
+  "item.too_many_apples.more_enchanted_copper_apple":"More Enchanted Copper Apple",
+  "item.too_many_apples.enchanted_iron_apple": "Enchanted Iron Apple",
+  "item.too_many_apples.enchanted_redstone_apple": "Enchanted Redstone Apple",
+  "item.too_many_apples.enchanted_diamond_apple": "Enchanted Diamond Apple",
+  "item.too_many_apples.enchanted_netherite_apple": "Enchanted Netherite Apple",
+  "item.too_many_apples.wither_apple": "Wither Apple",
+  "item.too_many_apples.ancient_apple": "Ancient Apple",
+  "item.too_many_apples.ancient_ingot": "Ancient Ingot",
+
+  "itemgroup.too_many_apples": "Too Many Apples"
+}

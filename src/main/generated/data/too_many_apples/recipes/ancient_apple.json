@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "combat",
+    "pattern": [
+        "iii",
+        "iAi",
+        "iii"
+    ],
+    "key": {
+        "i": {
+            "item": "too_many_apples:ancient_ingot"
+        },
+        "A": {
+            "item": "too_many_apples:enchanted_netherite_apple"
+        }
+    },
+    "result": {
+        "item": "too_many_apples:ancient_apple",
+        "count": 1
+    }
+}

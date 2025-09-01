@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "food",
+    "pattern": [
+        "iii",
+        "iAi",
+        "iii"
+    ],
+    "key": {
+        "i": {
+            "item": "minecraft:diamond"
+        },
+        "A": {
+            "item": "minecraft:apple"
+        }
+    },
+    "result": {
+        "item": "too_many_apples:diamond_apple",
+        "count": 1
+    }
+}

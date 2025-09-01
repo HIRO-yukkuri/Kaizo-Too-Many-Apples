@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "food",
+    "pattern": [
+        "iii",
+        "iAi",
+        "iii"
+    ],
+    "key": {
+        "i": {
+            "item": "too_many_apples:enchanted_copper_apple"
+        },
+        "A": {
+            "item": "minecraft:experience_bottle"
+        }
+    },
+    "result": {
+        "item": "too_many_apples:more_enchanted_copper_apple",
+        "count": 1
+    }
+}

@@ -1,0 +1,34 @@
+{
+	"schemaVersion": 1,
+	"id": "too_many_apples",
+	"version": "${version}",
+	"name": "Kaizo Too Many Apples",
+	"description": "Add multiple gold apple subspecies.",
+	"authors": [
+		"HIRO_yukkuri"
+	],
+	"contact": {
+		"email": "jeff0704julie@gmail.com",
+		"sources": "https://github.com/HIRO-yukkuri/Kaizo-Too-Many-Apples"
+	},
+	"license": "MIT",
+	"icon": "assets/too_many_apples/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.kaijane.too_many_apples.TooManyApples"
+		]
+	},
+	"mixins": [
+		"too_many_apples.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.6",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+
+	}
+}

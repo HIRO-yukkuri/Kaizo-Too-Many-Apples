@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "combat",
+    "pattern": [
+        "#A#",
+        "ANA",
+        "#A#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:wither_rose"
+        },
+        "A": {
+            "item": "minecraft:apple"
+        },
+        "N": {
+            "item": "minecraft:nether_star"
+        }
+    },
+    "result": {
+        "item": "too_many_apples:wither_apple",
+        "count": 4
+    }
+}

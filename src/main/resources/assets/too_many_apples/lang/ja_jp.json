@@ -1,0 +1,20 @@
+{
+  "item.too_many_apples.copper_apple": "銅のリンゴ",
+  "item.too_many_apples.iron_apple": "鉄のリンゴ",
+  "item.too_many_apples.amethyst_apple": "アメジストのリンゴ",
+  "item.too_many_apples.prismarine_apple": "プリズマリンのリンゴ",
+  "item.too_many_apples.redstone_apple": "レッドストーンのリンゴ",
+  "item.too_many_apples.diamond_apple": "ダイヤモンドのリンゴ",
+  "item.too_many_apples.netherite_apple": "ネザライトのリンゴ",
+  "item.too_many_apples.enchanted_copper_apple": "エンチャントされた銅のリンゴ",
+  "item.too_many_apples.more_enchanted_copper_apple":"エンチャントしすぎた銅のリンゴ",
+  "item.too_many_apples.enchanted_iron_apple": "エンチャントされた鉄のリンゴ",
+  "item.too_many_apples.enchanted_redstone_apple": "エンチャントされたレッドストーンのリンゴ",
+  "item.too_many_apples.enchanted_diamond_apple": "エンチャントされたダイヤモンドのリンゴ",
+  "item.too_many_apples.enchanted_netherite_apple": "エンチャントされたネザライトのリンゴ",
+  "item.too_many_apples.wither_apple": "衰弱のリンゴ",
+  "item.too_many_apples.ancient_apple": "古代のリンゴ",
+  "item.too_many_apples.ancient_ingot": "古代のインゴット",
+
+  "itemgroup.too_many_apples": "Too Many Apples"
+}

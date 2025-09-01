@@ -1,0 +1,28 @@
+{
+    "parent": "minecraft:recipes/root",
+    "criteria": {
+        "has_redstone": {
+            "conditions": {
+                "items": [
+                    {
+                        "items": [
+                            "minecraft:redstone"
+                        ]
+                    }
+                ]
+            },
+            "trigger": "minecraft:inventory_changed"
+        }
+    },
+    "requirements": [
+        [
+            "has_redstone"
+        ]
+    ],
+    "rewards": {
+        "recipes": [
+            "too_many_apples:redstone_apple"
+        ]
+    },
+    "sends_telemetry_event": false
+}

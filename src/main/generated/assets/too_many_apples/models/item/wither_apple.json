@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "too_many_apples:item/wither_apple"
+  }
+}

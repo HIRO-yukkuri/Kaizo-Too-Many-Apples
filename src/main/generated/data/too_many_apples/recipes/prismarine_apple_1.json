@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "food",
+    "pattern": [
+        "iii",
+        "iAi",
+        "iii"
+    ],
+    "key": {
+        "i": {
+            "item": "minecraft:prismarine_shard"
+        },
+        "A": {
+            "item": "minecraft:apple"
+        }
+    },
+    "result": {
+        "item": "too_many_apples:prismarine_apple",
+        "count": 1
+    }
+}

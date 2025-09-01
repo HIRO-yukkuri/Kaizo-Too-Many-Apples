@@ -1,0 +1,28 @@
+{
+    "parent": "minecraft:recipes/root",
+    "criteria": {
+        "has_iron_apple": {
+            "conditions": {
+                "items": [
+                    {
+                        "items": [
+                            "too_many_apples:iron_apple"
+                        ]
+                    }
+                ]
+            },
+            "trigger": "minecraft:inventory_changed"
+        }
+    },
+    "requirements": [
+        [
+            "has_iron_apple"
+        ]
+    ],
+    "rewards": {
+        "recipes": [
+            "too_many_apples:enchanted_iron_apple"
+        ]
+    },
+    "sends_telemetry_event": false
+}
